@@ -1,0 +1,12 @@
+C:\Users\piero\Documents\School\NiOP\Formaprogram\Formaprogram\bin\Debug\Formaprogram.exe.config
+C:\Users\piero\Documents\School\NiOP\Formaprogram\Formaprogram\bin\Debug\Formaprogram.exe
+C:\Users\piero\Documents\School\NiOP\Formaprogram\Formaprogram\bin\Debug\Formaprogram.pdb
+C:\Users\piero\Documents\School\NiOP\Formaprogram\Formaprogram\obj\Debug\Formaprogram.csproj.AssemblyReference.cache
+C:\Users\piero\Documents\School\NiOP\Formaprogram\Formaprogram\obj\Debug\Formaprogram.csproj.SuggestedBindingRedirects.cache
+C:\Users\piero\Documents\School\NiOP\Formaprogram\Formaprogram\obj\Debug\Formaprogram.Form1.resources
+C:\Users\piero\Documents\School\NiOP\Formaprogram\Formaprogram\obj\Debug\Formaprogram.Properties.Resources.resources
+C:\Users\piero\Documents\School\NiOP\Formaprogram\Formaprogram\obj\Debug\Formaprogram.csproj.GenerateResource.cache
+C:\Users\piero\Documents\School\NiOP\Formaprogram\Formaprogram\obj\Debug\Formaprogram.csproj.CoreCompileInputs.cache
+C:\Users\piero\Documents\School\NiOP\Formaprogram\Formaprogram\obj\Debug\Formaprogram.exe
+C:\Users\piero\Documents\School\NiOP\Formaprogram\Formaprogram\obj\Debug\Formaprogram.pdb
+C:\Users\piero\Documents\School\NiOP\Formaprogram\Formaprogram\obj\Debug\Formaprogram.formText.resources
